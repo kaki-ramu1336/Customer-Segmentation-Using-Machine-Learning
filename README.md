@@ -1,3 +1,5 @@
+# Customer-Segmentation-Using-Machine-Learning
+
 #  Introduction
 * This project focuses on segmenting mall customers into different groups based on their Annual Income and Spending Score. Customer segmentation helps businesses understand various customer behaviors, enabling them   to create personalized marketing strategies that improve customer satisfaction and increase overall sales.
 
